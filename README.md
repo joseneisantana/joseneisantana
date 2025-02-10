@@ -4,9 +4,6 @@
 🎯 **Em transição de carreira para Desenvolvimento Web**  
 👨🏾‍💻 **Apaixonado por tecnologia, música e inovação**  
 🌐 **Cursando Inglês na OpenEnglish**  
-
----
-
 ## 🚀 Sobre mim  
 Sou um profissional com mais de **21 anos de experiência em TI**, atuando como **Analista de TI**. Atualmente, estou ampliando meus conhecimentos e migrando para o **Desenvolvimento Front-end**, com foco em criar soluções completas e eficientes que unem Front-end e Back-end.  
 
