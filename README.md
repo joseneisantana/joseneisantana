@@ -82,14 +82,5 @@ Sou um profissional com mais de **21 anos de experiência em TI**, atuando como 
 
 ---
 
-## 🎥 Animação de Código
-
-Aqui está uma animação de código no estilo do VS Code:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joseneisantana/joseneisantana/main/code-animation.svg" alt="Animação de Código" width="100%">
-</div>
-
----
 
 🌟 **Seja bem-vindo ao meu GitHub!** Fique à vontade para explorar meus projetos, contribuir ou trocar ideias sobre tecnologia! 🚀
