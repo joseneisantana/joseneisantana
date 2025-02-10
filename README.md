@@ -1,4 +1,4 @@
-# Olá! Eu sou o Josenei Santana 👋
+# Olá! sou Josenei Santana 👋
 
 💻 **Desenvolvedor Front-end | Analista de TI**  
 🎯 **Em transição de carreira para Desenvolvimento Web**  
