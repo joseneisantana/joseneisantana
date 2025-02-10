@@ -77,15 +77,6 @@ Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades p
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseneisantana&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joseneisantana&theme=radical" alt="Sequência de Contribuições"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseneisantana&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>  
-</div>
-
----
 
 ## 📫 Contato
 
