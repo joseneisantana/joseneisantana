@@ -3,7 +3,7 @@
 💻 **Desenvolvedor Front-end | Analista de TI**  
 🎯 **Em transição de carreira para Desenvolvimento Web**  
 👨🏾‍💻 **Apaixonado por tecnologia, música e inovação**  
-🌐 **Cursando Inglês na OpenEnglish**
+
 
 ---
 
@@ -16,10 +16,18 @@ Sou um profissional com mais de **21 anos de experiência em TI**, atuando como 
 - 🚀 **Curso Profissionalizante de Engenheiro Front-End pela EBAC**
 - 🔧 **Cursando Desenvolvimento Back-End na DNC**
 - 🇺🇸 **Cursando Inglês na OpenEnglish**
-
+---
 Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para contribuir com projetos inovadores!
+## 📊 Estatísticas do GitHub
+
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseneisantana&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joseneisantana&theme=radical" alt="Sequência de Contribuições"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseneisantana&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>  
+</div>
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
