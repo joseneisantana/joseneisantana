@@ -4,7 +4,6 @@
 🎯 **Em transição de carreira para Desenvolvimento Web**  
 👨🏾‍💻 **Apaixonado por tecnologia, música e inovação**  
 
-
 ---
 
 ## 🚀 Sobre mim
@@ -16,8 +15,9 @@ Sou um profissional com mais de **21 anos de experiência em TI**, atuando como 
 - 🚀 **Curso Profissionalizante de Engenheiro Front-End pela EBAC**
 - 🔧 **Cursando Desenvolvimento Back-End na DNC**
 - 🇺🇸 **Cursando Inglês na OpenEnglish**
+
 ---
-Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para contribuir com projetos inovadores!
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
@@ -28,36 +28,33 @@ Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades p
 
 ---
 
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🚀 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔧 Back-End (Em Aprendizado)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🧪 Testes
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ### 🔨 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat-square&logo=grunt&logoColor=black)
 
 ---
 
@@ -77,12 +74,21 @@ Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades p
 
 ---
 
-
 ## 📫 Contato
 
-📌 **LinkedIn:** [linkedin.com/in/josenei-costa-de-santana-analista-de-ti](https://www.linkedin.com/in/josenei-costa-de-santana-analista-de-ti/)  
+📌 **LinkedIn:** [linkedin.com/in/josenei-costa-de-santana](https://www.linkedin.com/in/josenei-costa-de-santana/)  
 📌 **GitHub:** [github.com/joseneisantana](https://github.com/joseneisantana)  
 📧 **Email:** joseneisantana@example.com  
+
+---
+
+## 🎥 Animação de Código
+
+Aqui está uma animação de código no estilo do VS Code:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joseneisantana/joseneisantana/main/code-animation.svg" alt="Animação de Código" width="100%">
+</div>
 
 ---
 
