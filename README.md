@@ -1,10 +1,4 @@
-# Olá! Sou Josenei Santana 👋
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    🚀 Josenei Santana | Desenvolvedor Front-end | Analista de TI 🚀
-  </marquee>
-</p>
+Um dos trechos da Estatísticas do GitHub esta sumindo  # Olá! sou Josenei Santana 👋
 
 💻 **Desenvolvedor Front-end | Analista de TI**  
 🎯 **Em transição de carreira para Desenvolvimento Web**  
@@ -28,7 +22,6 @@ Sou um profissional com mais de **21 anos de experiência em TI**, atuando como 
 
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseneisantana&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joseneisantana&theme=radical" alt="Sequência de Contribuições"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseneisantana&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>  
 </div>
 
@@ -87,5 +80,6 @@ Sou um profissional com mais de **21 anos de experiência em TI**, atuando como 
 📧 **Email:** joseneisantana@example.com  
 
 ---
+
 
 🌟 **Seja bem-vindo ao meu GitHub!** Fique à vontade para explorar meus projetos, contribuir ou trocar ideias sobre tecnologia! 🚀
