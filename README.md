@@ -1,4 +1,10 @@
-# Olá! sou Josenei Santana 👋
+# Olá! Sou Josenei Santana 👋
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    🚀 Josenei Santana | Desenvolvedor Front-end | Analista de TI 🚀
+  </marquee>
+</p>
 
 💻 **Desenvolvedor Front-end | Analista de TI**  
 🎯 **Em transição de carreira para Desenvolvimento Web**  
@@ -81,6 +87,5 @@ Sou um profissional com mais de **21 anos de experiência em TI**, atuando como 
 📧 **Email:** joseneisantana@example.com  
 
 ---
-
 
 🌟 **Seja bem-vindo ao meu GitHub!** Fique à vontade para explorar meus projetos, contribuir ou trocar ideias sobre tecnologia! 🚀
